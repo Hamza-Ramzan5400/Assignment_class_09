@@ -6,7 +6,7 @@ const HeroSection = () => {
         <div className="bg-slate-100 italic flex justify-center mt-5">
             <h1 className=" md:text-4xl lg-tex-5xl font-bold text-pink-600  font-serif my-3">Bandhan Flower Decoratioon</h1>
         </div>
-        <div className="flex flex-wrap  md:flex-row  bg-slate-100 justify-center items-center gap-9 mt-8">
+        <div className="flex flex-wrap  md:flex-row  bg-slate-100 justify-evenly items-center gap-9 mt-8">
           
 <      div className="md:w-3/12 w-full flex flex-col justify-center items-center">
        <div className="rounded-xl relative bg-blue-600 h-56 w-56 shadow-2xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden ">
