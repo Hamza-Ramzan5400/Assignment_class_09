@@ -10,7 +10,7 @@ const HeroSection = () => {
           
 <      div className="md:w-3/12 w-full flex flex-col justify-center items-center">
        <div className="rounded-xl relative bg-blue-600 h-56 w-56 shadow-2xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden ">
-        <Image src="/pic1.jpeg"
+        <Image src="/pic1.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -21,7 +21,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center ">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic2.jpeg"
+        <Image src="/pic2.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -32,7 +32,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic3.jpeg"
+        <Image src="/pic3.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -43,7 +43,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic4.jpeg"
+        <Image src="/pic4.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -54,7 +54,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic5.jpeg"
+        <Image src="/pic5.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -65,7 +65,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic6.jpeg"
+        <Image src="/pic6.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -76,7 +76,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic7.jpeg"
+        <Image src="/pic7.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -87,7 +87,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic8.jpeg"
+        <Image src="/pic8.jpg"
         alt="Astage" 
         fill={true}
         objectFit="cover"/>
@@ -97,7 +97,7 @@ const HeroSection = () => {
         </div>
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic9.jpeg"
+        <Image src="/pic9.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -108,7 +108,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic10.jpeg"
+        <Image src="/pic10.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -119,7 +119,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden">
-        <Image src="/pic11.jpeg"
+        <Image src="/pic11.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
@@ -130,7 +130,7 @@ const HeroSection = () => {
 
         <div className="md:w-3/12  w-full  flex flex-col justify-center items-center">
        <div className="rounded-xl bg-cover relative bg-blue-600 h-56 w-56 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 overflow-hidden ">
-        <Image src="/pic12.jpeg"
+        <Image src="/pic12.jpg"
         alt="Astage1" 
         fill={true}
         objectFit="cover"/>
